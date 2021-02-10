@@ -15,3 +15,10 @@
 
 ## Geekbang
 ### https://drive.google.com/drive/folders/148cr7xvj8A5PjhGCy2m7pcYiR5Dc51RA
+
+
+# ML/AL Courses
+
+## Standford Courses
+## Deeplearning AI Courses
+## Fastai Courses
