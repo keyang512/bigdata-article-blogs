@@ -5,7 +5,8 @@
 ### http://matt33.com/2018/11/04/kafka-transaction/
 
 ## Flink
-### http://wuchong.me/
+### http://wuchong.me
+### https://blog.jrwang.me/
 
 ## Spark
 ### https://github.com/lw-lin/CoolplaySpark/
